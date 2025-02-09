@@ -22,7 +22,7 @@ Planespotting is the art of tracking down and observing aircraft. While planespo
 To run skytrack on your machine, follow the steps below:
 
 ```bash
-$ git clone https://github.com/ANG13T/skytrack
+$ git clone https://github.com/FantasticSukhi/skytrack
 $ cd skytrack
 $ pip install -r requirements.txt
 $ python skytrack.py
