@@ -27,17 +27,17 @@ try:
 
         console.print("\n[bold underline cyan]About the Developer[/]\n")
         console.print("skytrack was created by Angelina Tsuboi (G4LXY). To get in touch with me, you can reach out via the following methods:\n")
-        console.print("[bold]Website:[/] angelinatsuboi.com")
-        console.print("[bold]Instagram:[/] @angelina_tsuboi")
-        console.print("[bold]Twitter:[/] @AngelinaTsuboi")
-        console.print("[bold]GitHub:[/] @ANG13T")
+        console.print("[bold]Website:[/] abc.com")
+        console.print("[bold]Instagram:[/] @sukhpalinsta")
+        console.print("[bold]Twitter:[/] @twitteraccount")
+        console.print("[bold]GitHub:[/] @FantasticSukhi")
 
         console.print("\n[bold underline cyan]Contributing and Support[/]\n")
         console.print("All contributions to this tool are welcome. Please refer the contribution guideline on skytrack's GitHub repository to submit a pull request.")
         console.print("To support my work and future projects, please consider sponsoring me on GitHub:")
-        console.print("https://github.com/sponsors/ANG13T")
+        console.print("https://github.com/sponsors/FantasticSukhi")
         console.print("\n[bold]Skytrack GitHub Repo:[/]")
-        console.print("https://github.com/ANG13T/skytrack \n")
+        console.print("https://github.com/FantasticSukhi/skytrack \n")
         
         option = generate_option(about_options_menu.options)
         
