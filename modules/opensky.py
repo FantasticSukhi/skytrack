@@ -74,7 +74,7 @@ def retrieve_value(line, val):
 def get_opensky_data(aircraft, tail_value):
     headers = {
         'User-Agent': 'SKYTRACK: Aviation-based intelligence gathering tool'
-        'Information at: https://github.com/ANG13T/skytrack'
+        'Information at: https://github.com/FantasticSukhi/skytrack'
     }
 
     if not os.path.exists(cache_path) or os.stat(cache_path).st_size == 0:
